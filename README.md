@@ -80,6 +80,7 @@ Developed a Python-based vendor SPP management automation script that streamline
 ---
 
 ### 🌐 Connect With Me
+<p> Feel free to reach via linkedin or gmail ! </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/bhagyanidhi-patil/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -91,4 +92,4 @@ Developed a Python-based vendor SPP management automation script that streamline
 
 ---
 
-✨ *Building reliable systems, one commit at a time.*
+✨ *Thank you for visiting my profile!*
