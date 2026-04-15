@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Bhagyanidhi Patil
+# Hi there 👋, I'm Bhagyanidhi Patil 👩‍💻
 
 💻 C++ & Python Developer | Backend & Systems Engineer | Distributed Systems  
 💡 Always eager to learn new technologies and apply them to solve real engineering problems  
@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 I’m a **C++ & Python Developer** with 3+ years of experience building systems-level software, backend infrastructure, and developer tools.
 
