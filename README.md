@@ -1,95 +1,136 @@
-<h1 align="center">
-  Hi 👋, I'm Bhagyanidhi Patil
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Software Engineer 👩🏻‍💻 @ NetApp | Ex- HPE | SJCE 2022
-</h3>
+# Hi there 👋, I'm Bhagyanidhi Patil
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhagyanidhi-Patil&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-<p align="center">
-  🚀 Always eager to learn, experiment, and implement new technologies !
-</p>
+💻 C++ & Python Developer | Backend & Systems Engineer | Distributed Systems  
+💡 Always eager to learn new technologies and apply them to solve real engineering problems  
+
+</div>
+
 ---
 
-### 🚀 About Me
- <p>
-  I’m a <b>passionate Software Engineer💻👩🏻‍💻 </b>, currently part of the <b>ONTAP team at NetApp</b>, working on large-scale,
-  high-performance storage systems.
-</p>
+## 👨‍💻 About Me
 
-<p>
-  Previously at <b>Hewlett Packard Enterprise (HPE)</b>, I contributed to projects such as
-  <b>HPE iLO Redfish</b> and the development of the <b>libhpsrv</b> library, focusing on
-  secure hardware management and reliable system communication using <b>C++</b>.
-</p>
+I’m a **C++ & Python Developer** with 3+ years of experience building systems-level software, backend infrastructure, and developer tools.
 
-<p>
-  I have hands-on experience migrating large codebases to <b>Python 3</b>, ensuring compliance with modern standards,
-  and developing Python-based features to improve system efficiency and performance.
-  I work extensively on <b>low-level programming</b>, <b>multithreaded applications</b>,
-  and <b>REST API development</b> in Linux environments.
-</p>
+Currently at **NetApp**, I work in the **ONTAP engineering team**, contributing to scalable storage systems and developer productivity tooling. Previously at **HPE**, I worked on system-level libraries and **HPE iLO Redfish-based infrastructure APIs**.
+
+I enjoy building software that is:
+
+- ⚡ High-performance  
+- 🛡️ Reliable and production-ready  
+- 📈 Scalable under real-world load  
+- 🔧 Built with strong systems fundamentals  
+
+---
+
+## 🔧 What I Work On
+
+- 🧵 High-performance C++ systems with focus on concurrency & optimization  
+- 🔌 Scalable backend APIs and services  
+- 🗄️ Storage systems & distributed infrastructure  
+- 🤖 Developer productivity tools & automation  
+- ⚙️ Performance tuning and system optimization  
+
+---
+
+## 🧠 Core Strengths
+
+`Data Structures & Algorithms` • `Operating Systems` • `Memory Management`  
+`Multithreading` • `System Design` • `OOP` • `Performance Optimization`
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js" />
-
-**Systems**  
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
-
-**APIs & Tools**  
-<img src="https://skillicons.dev/icons?i=postman,git,github,jenkins" />
-
-**IDEs**  
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm" />
-
-
----
-
-📌 **Featured Projects :**
-
-🔹 **Firmware Update Failure Prediction Tool :**
-Designed and implemented a machine-learning–based prediction system using NLP for log feature extraction and an SVM classification model to forecast firmware component update failures. The system analyzes historical SPP update data to identify failure patterns and provides accurate predictions, enabling early detection, proactive mitigation, and improved reliability of firmware update workflows.
-
-🔹 **Libhpsrv Library :**
-Contributed to the development of the libhpsrv C++ library, which enables secure communication between host applications and HPE iLO systems. Designed and implemented the VNIC feature, where the virtual NIC is directly connected to the iLO IP, allowing host–iLO communication over the HTTP protocol.
-
-🔹 **DMTF Redfish Implementation:**
-Implemented the DMTF Redfish standard in C++, delivering secure RESTful management APIs for HPE servers. Designed, developed, and tested APIs for server monitoring and control, ensuring compliance with Redfish schemas and industry best practices.
-
-🔹 **Raiden Tool Migration (Python 2 → Python 3):**
-Led the migration of the Raiden tool from Python 2 to Python 3, modernizing a 100+ file Python codebase by resolving deprecated APIs, updating dependencies, and ensuring compliance with modern Python standards for long-term maintainability.
-
-🔹 **Vendor SPP Automation:**
-Developed a Python-based vendor SPP management automation script that streamlined vendor SPP workflows by programmatically cloning new vendor instances upon ProLiant SPP updates and automatically initiating builds for each new release. This solution improved overall process efficiency by 89% compared to previous manual methods.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhagyanidhi-Patil&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagyanidhi-Patil&theme=tokyonight" height="160"/>
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p> Feel free to reach out to me via linkedin or gmail ! </p>
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhagyanidhi-patil/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+### ⚙️ Systems & Core Concepts
+<p>
+  <img src="https://img.shields.io/badge/Operating%20Systems-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multithreading-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-6C5CE7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-FF9800?style=for-the-badge"/>
+</p>
+
+---
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner – CSFE Hackathon 2024 @ HPE  
+- 🌟 HPE Special Award – Compute SW COE  
+- 📈 Improved engineering workflow efficiency by **89%** through automation systems  
+
+---
+## 🧠 Currently Learning
+
+- Distributed Systems Design at scale  
+- Advanced C++ performance optimization techniques  
+- Low-latency system design patterns  
+- LLM-based developer tools & automation  
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhagyanidhi-Patil&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagyanidhi-Patil" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyanidhi-Patil&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyanidhi-Patil" />
+</p>
+
+---
+
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/bhagyanidhi-patil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:bhagyanidhi.patil2000@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Bhagyanidhi-Patil">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-✨ *Thanks for visiting my profile!*
+<div align="center">
+
+✨ *Thanks for visiting my profile!* ✨
+
+</div>
